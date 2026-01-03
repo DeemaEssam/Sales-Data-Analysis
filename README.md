@@ -1,5 +1,5 @@
 # Sales-Data-Analysis
-<img width="119" height="659" alt="Image" src="https://github.com/user-attachments/assets/c58e1e65-d60e-4e0a-94f1-906c8cfa7db6" />
+<img width="190" height="659" alt="Image" src="https://github.com/user-attachments/assets/c58e1e65-d60e-4e0a-94f1-906c8cfa7db6" />
 
 
 I designed an interactive Power BI dashboard to visualize sales performance indicators.
